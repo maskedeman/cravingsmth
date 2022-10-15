@@ -1,0 +1,10 @@
+export {default as Home} from './home/Home';
+export {default as Location} from './location/Location';
+export {default as Menus} from './menus/Menus';
+export {default as Footer} from './footer/Footer';
+export {default as Header} from './header/Header';
+export {default as PrivateEvents} from './privateevents/PrivateEvents';
+export {default as Reservations} from './reservations/Reservations';
+export {default as About} from './about/About';
+export {default as Callnow} from './callnow/Callnow';
+export {default as Orderonline} from './orderonline/Orderonline';
